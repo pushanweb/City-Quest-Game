@@ -1,0 +1,925 @@
+﻿  main.cpp
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(147,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(147,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(150,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(160,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(166,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\curve.h(167,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(466,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(467,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(468,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(469,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(470,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(471,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(472,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(473,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(474,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(475,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(476,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(477,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(478,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(479,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(480,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(481,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(482,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(483,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(484,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(485,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(486,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(487,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(496,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(497,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(498,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(499,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(500,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(501,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(502,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(503,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(504,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,9): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,9): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,9): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,9): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,17): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,17): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,17): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,17): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,25): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,25): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,25): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(505,25): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,9): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,9): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,9): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,9): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,17): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,17): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,17): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,17): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,25): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,25): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,25): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(506,25): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,9): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,9): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,9): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,9): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,17): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,17): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,17): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,17): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,25): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,25): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,25): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(507,25): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(524,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(525,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(526,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(527,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(528,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(529,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(530,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(531,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(532,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(533,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(534,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(535,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(544,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(545,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(546,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(547,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(548,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(549,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(550,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(551,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(552,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(553,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,10): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,10): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,10): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,10): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,18): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,18): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,18): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,18): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,26): warning C4305:         with
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,26): warning C4305:         [
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,26): warning C4305:             _Ty=float
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(554,26): warning C4305:         ]
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(597,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1216,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1243,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1243,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1254,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1254,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1266,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1266,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1278,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1278,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1290,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1290,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1297,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1418,29): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1419,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1420,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1423,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1424,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1425,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1428,29): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1429,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1430,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1433,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1434,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1435,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1437,81): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1438,81): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1440,29): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1441,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1442,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1445,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1446,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\main.cpp(1447,31): warning C4305: '+=': truncation from 'double' to 'float'
+  Lighting.vcxproj -> C:\4-2\Graphics Lab\1807065_lighting - Copy\Lighting Student Version\x64\Debug\Lighting.exe
